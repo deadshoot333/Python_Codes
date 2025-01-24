@@ -1,8 +1,8 @@
 from socket import *
 
 ##server initialization
-serverName 
-serverPort 
+serverName = '192.168.0.101' ##my device ip address
+serverPort =1200
 
 ##socket creation
 ##AF_INET indicates that underlying network is using IPV4

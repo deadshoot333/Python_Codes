@@ -1,7 +1,7 @@
 ##server must run before client in a sperate terminal
 from socket import *
 
-serverPort
+serverPort = 1200
 serverSocket = socket(AF_INET, SOCK_DGRAM)
 
 ##assigns port to socket
