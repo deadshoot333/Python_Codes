@@ -1,6 +1,6 @@
 from socket import *
-serverName = 
-serverPort = 
+serverName = "192.168.0.101"
+serverPort = 12000
 ##SOCK_STREAM -> TCP connection
 clientSocket = socket(AF_INET, SOCK_STREAM)
 
